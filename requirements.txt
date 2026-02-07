@@ -1,0 +1,6 @@
+yfinance
+pandas
+matplotlib
+jupyter
+ipykernel
+setuptools
